@@ -9,17 +9,23 @@
 <body>
     <?php include('includes/header.php') ?>
     <h1>Produit</h1>
-    <div>
-        <img src="assets/img/highkick.jpg" id="picKick">
-        <p>Un high kick</p>
-        <p>25 euros</p>
-    </div>
-    <br>
-    <aside>
-        <img src="assets/img/1000ans.jpg">
-        <p>Un ********</p>
-        <p>50 euros</p>
-    </aside>
+    <button onclick="uneAlert();">
+        <div>
+            <img src="highkick.jpg" id="picKick">
+            <p>Un high kick</p>
+            <p>25 euros</p>
+        </div>
+    </button>
+        <br>
+    <button>
+        <aside>
+            <img src="1000ans.jpg">
+            <p>Un ********</p>
+            <p>50 euros</p>
+        </aside>
+    </button>
+    <p id="result"></p>
+    <script src="assets/js/script.js">
     <?php include('includes/footer.php') ?>
 </body>
 </html>
