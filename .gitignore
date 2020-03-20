@@ -1,0 +1,12 @@
+
+# Default ignored folder
+.idea
+assets/css
+assets/js
+include
+
+# Default ignored files
+index.php
+shop.php
+LICENSE
+README.md
