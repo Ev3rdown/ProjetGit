@@ -9,17 +9,17 @@
 <body>
     <?php include('includes/header.php') ?>
     <h1>Produit</h1>
-    <button onclick="uneAlert()">
+    <button onclick="uneAlert(this,'produit1');">
         <div>
-            <img src="highkick.jpg" id="picKick">
+            <img src="assets/img/highkick.jpg" id="picKick">
             <p>Un high kick</p>
             <p>25 euros</p>
         </div>
     </button>
         <br>
-    <button>
+    <button onclick="uneAlert(this,'produit2');">
         <aside>
-            <img src="1000ans.jpg">
+            <img src="assets/img/1000ans.jpg" id="downKick">
             <p>Un ********</p>
             <p>50 euros</p>
         </aside>
@@ -27,5 +27,6 @@
     <p id="result"></p>
     <script src="assets/js/script.js"></script>
     <?php include('includes/footer.php') ?>
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
