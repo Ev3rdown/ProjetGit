@@ -11,7 +11,7 @@
     <h1>Produit</h1>
     <button onclick="uneAlert()">
         <div>
-            <img src="highkick.jpg" id="picKick">
+            <img src="assets/img/highkick.jpg" id="picKick">
             <p>Un high kick</p>
             <p>25 euros</p>
         </div>
@@ -19,7 +19,7 @@
         <br>
     <button>
         <aside>
-            <img src="1000ans.jpg">
+            <img src="assets/img/1000ans.jpg">
             <p>Un ********</p>
             <p>50 euros</p>
         </aside>
