@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Produit</h1>
-    <button>
+    <button onclick="uneAlert();">
         <div>
             <img src="highkick.jpg" id="picKick">
             <p>Un high kick</p>
@@ -23,7 +23,7 @@
             <p>50 euros</p>
         </aside>
     </button>
+    <p id="result"></p>
+    <script src="assets/js/script.js">
 </body>
 </html>
-
-<?php?>
