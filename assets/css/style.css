@@ -1,3 +1,11 @@
 body{
     display: block;
+    margin-top: 130px;
 }
+#picKick{
+    height: 300px;
+}
+/*aside{
+    float: right;
+    float: top;
+}*/

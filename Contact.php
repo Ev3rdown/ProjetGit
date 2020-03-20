@@ -27,11 +27,11 @@ $(document).ready(function(){
     <link rel="icon" href="assets/img/LOGO.png">
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
 
-<body>
+<body style="margin-top:0!important">
 
     <!-- Header -->
     <header class="header-area">
