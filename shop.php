@@ -12,7 +12,7 @@
     <button onclick="uneAlert(this,'produit1');">
         <div>
             <img src="assets/img/highkick.jpg" id="picKick">
-            <p>Un high kick</p>
+            <p id="high">Un high kick</p>
             <p>25 euros</p>
         </div>
     </button>
@@ -20,7 +20,7 @@
     <button onclick="uneAlert(this,'produit2');">
         <aside>
             <img src="assets/img/1000ans.jpg" id="downKick">
-            <p>Un ********</p>
+            <p id="down">Un ********</p>
             <p>50 euros</p>
         </aside>
     </button>
