@@ -25,6 +25,7 @@
         </aside>
     </button>
     <p id="result"></p>
+    <script src="assets/js/script.js"></script>
     <?php include('includes/footer.php') ?>
     <script src="assets/js/script.js"></script>
 </body>
