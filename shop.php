@@ -9,7 +9,7 @@
 <body>
     <?php include('includes/header.php') ?>
     <h1>Produit</h1>
-    <button onclick="uneAlert();">
+    <button onclick="uneAlert()">
         <div>
             <img src="highkick.jpg" id="picKick">
             <p>Un high kick</p>
@@ -25,7 +25,7 @@
         </aside>
     </button>
     <p id="result"></p>
-    <script src="assets/js/script.js">
+    <script src="assets/js/script.js"></script>
     <?php include('includes/footer.php') ?>
 </body>
 </html>
