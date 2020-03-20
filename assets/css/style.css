@@ -1,3 +1,7 @@
 body{
     display: block;
 }
+
+#picKick{
+    height: 300px;
+}
