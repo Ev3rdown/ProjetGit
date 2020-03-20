@@ -58,7 +58,7 @@ $(document).ready(function(){
                             <!-- Nav Start -->
 
                             <div class="nav" style="background-color: burlywood;">
-                                <a href="index.php" style=""><img class="logo" src="assets/img/LOGO.png" style="width: 5%" alt=""></a>
+                                <a href="index.php"><img class="logo" src="assets/img/LOGO.png" style="width: 5%" alt=""></a>
                             <center>
                                 <ul id="nav" style="display: ruby-text;">
                                     <li><a href="index.php" style="margin-right: 20px;">Accueil</a></li>
