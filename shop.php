@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/shopCSS.css">
 </head>
 <body>
+    <?php include('includes/header.php') ?>
     <h1>Produit</h1>
     <button onclick="uneAlert();">
         <div>
@@ -25,5 +26,6 @@
     </button>
     <p id="result"></p>
     <script src="assets/js/script.js">
+    <?php include('includes/footer.php') ?>
 </body>
 </html>
